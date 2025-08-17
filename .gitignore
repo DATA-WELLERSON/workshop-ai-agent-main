@@ -12,3 +12,5 @@ wheels/
 
 crewai_memory/
 data/
+
+env-example.env
